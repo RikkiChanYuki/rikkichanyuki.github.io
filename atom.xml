@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-24T03:26:37.768Z</updated>
+  <updated>2025-07-24T03:54:17.701Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ecology-and-environment</title>
+    <title>《热力学与统计物理》课程笔记</title>
+    <link href="http://example.com/2025/07/24/thermodynamics-and-statistical-physics/"/>
+    <id>http://example.com/2025/07/24/thermodynamics-and-statistical-physics/</id>
+    <published>2025-07-24T03:50:25.000Z</published>
+    <updated>2025-07-24T03:54:17.701Z</updated>
+    
+    <content type="html"><![CDATA[<p>24秋 热力学统计物理 徐莉梅老师</p><p>内含复习时的笔记+习题课笔记</p><p>虽然物院课程改革之后不知道还有没有四学分热统课……</p><a href="/2025/07/24/thermodynamics-and-statistical-physics/notes.pdf" title="下载链接">下载链接</a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;24秋 热力学统计物理 徐莉梅老师&lt;/p&gt;
+&lt;p&gt;内含复习时的笔记+习题课笔记&lt;/p&gt;
+&lt;p&gt;虽然物院课程改革之后不知道还有没有四学分热统课……&lt;/p&gt;
+&lt;a href=&quot;/2025/07/24/thermodynamics-and-statistical-physics/</summary>
+      
+    
+    
+    
+    <category term="notes" scheme="http://example.com/categories/notes/"/>
+    
+    
+    <category term="physics" scheme="http://example.com/tags/physics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《生态学与环境变化》期末资料</title>
     <link href="http://example.com/2025/07/24/ecology-and-environment/"/>
     <id>http://example.com/2025/07/24/ecology-and-environment/</id>
     <published>2025-07-24T03:17:12.000Z</published>
-    <updated>2025-07-24T03:26:37.768Z</updated>
+    <updated>2025-07-24T03:54:15.743Z</updated>
     
     <content type="html"><![CDATA[<p>水一期更新×2</p><p>平时小测30%+期末70%，都是开卷，大部分内容可以在PPT中找到</p><p>在树洞上找到了2022年春季的期末考试题，这一学期的期末全为简答和论述。但本学期（25春）期末为选择+简答+论述，题目会有冗余量，即只需要在四个论述题中选择两道作答即可。</p><p>由于本人太懒，这两份文件整理都使用了ai辅助</p><a href="/2025/07/24/ecology-and-environment/summaryofPPT.pdf" title="PPT内容整理">PPT内容整理</a><a href="/2025/07/24/ecology-and-environment/2022final.pdf" title="2022年题目及解答">2022年题目及解答</a>]]></content>
     
